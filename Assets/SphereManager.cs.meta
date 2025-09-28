@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f8f00fdb68cd7204a960f1885351a8f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spherePrefab: {fileID: 8096207666983521916, guid: 97eb5e0108923b24685cd7bfe22f36f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
