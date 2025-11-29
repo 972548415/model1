@@ -20,5 +20,10 @@ public enum EventType
     // 游戏状态事件
     GameStart,
     GameOver,
-    LevelComplete
+    LevelComplete,
+
+    // 新添加的事件 - 物体移动控制
+    ObjectStartMovingZ,      // 物体开始沿Z轴移动
+    ObjectStopMovingZ,       // 物体停止沿Z轴移动
+    ObjectChangeMovingSpeed  // 改变物体移动速度
 }
